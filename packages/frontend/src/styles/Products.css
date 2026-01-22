@@ -1,0 +1,41 @@
+.products-page {
+  padding: 40px 0;
+}
+
+.products-page h1 {
+  text-align: center;
+  color: #8B7355;
+  font-size: 42px;
+  margin-bottom: 40px;
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 40px;
+}
+
+.filters label {
+  font-weight: 500;
+}
+
+.filters select {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.pagination span {
+  font-size: 16px;
+}
